@@ -1,6 +1,10 @@
 Deploy version from firebase :
 ```
 https://toko-beras-cms.web.app/
+
+account login :
+email     : aman@kak.com 
+password  : aman
 ```
 
 # ecommerce-cms-client

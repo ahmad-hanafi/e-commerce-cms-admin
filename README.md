@@ -1,3 +1,8 @@
+Deploy version from firebase :
+```
+https://toko-beras-cms.web.app/
+```
+
 # ecommerce-cms-client
 
 ## Project setup
